@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Police Enforcement Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Police Enforcement Dashboard</h1>
+    <label for="year-select">Select Year:</label>
+    <select id="year-select">
+      <option value="2021">2021</option>
+      <option value="2022">2022</option>
+      <option value="2023" selected>2023</option>
+    </select>
+  </header>
+  <main>
+    <section class="chart-container">
+      <h2>Alcohol & Drug Tests Conducted</h2>
+      <svg id="barChart" width="500" height="300"></svg>
+    </section>
+    <section class="chart-container">
+      <h2>Positive Breath Tests Over Time</h2>
+      <svg id="lineChart" width="500" height="300"></svg>
+    </section>
+    <section class="chart-container">
+      <h2>Detection Methods Distribution</h2>
+      <svg id="detectionBar" width="500" height="300"></svg>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
