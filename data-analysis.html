@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Offense Types Overview</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Load the JS that creates the pie chart -->
+  <script src="js/Unlicensed(2).js" defer></script>
+  <style>
+    /* Optional inline style if no tooltip class in CSS file */
+    .tooltip {
+      position: absolute;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 8px;
+      border-radius: 4px;
+      pointer-events: none;
+      font-size: 12px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      z-index: 100;
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Visualisation of Traffic Offense Types in Australia</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="data-analysis.html">Data Analysis</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>🚨 Most Common Offense Types</h2>
+    <p>This chart visualises the distribution of traffic fines across different offense types.</p>
+    <p>It helps identify which behaviors are most penalized and may guide educational and enforcement efforts.</p>
+
+    <div id="pie-chart-metric"></div>
+  </section>
+
+
+  <section>
+    <h2>🚨 Most Common Age group to commit crimes</h2>
+    <p>This chart visualises the distribution of traffic fines across different age groups.</p>
+    <p>It helps identify which behaviors are most penalized and may guide educational and enforcement efforts. Note 0-16 is very small</p>
+
+   <div id="pie-chart-age"></div>
+
+  </section>
+
+   <section>
+    <h2>🚨 Most Common State crimes are comitted in</h2>
+    <p>This chart visualises the distribution of traffic fines across different states.</p>
+    <p>It helps identify which behaviors are most penalized and may guide educational and enforcement efforts.</p>
+
+   <div id="pie-chart-state"></div>
+
+
+   <p> Traffic fines in Australia revealed information about a person's habits, age, and location. The most frequent infractions were obvious: using a cell phone while driving distracted drivers, failing to wear seat belts put lives at risk, speeding fines dominated the roads, and unlicensed driving slipped through the cracks.  
+
+
+Young drivers, particularly those between the ages of 17 and 25, were at the top of the charts, and their carelessness or lack of experience cost them dearly. The 26–39 group, whose hectic schedules might have caused them to make hurried mistakes, followed closely behind.  
+
+<p> States did not receive an equal share of the fines. Quieter areas like TAS and NT had fewer, while the busiest cities in *NSW* and *VIC* had the most. However, each state faced its own challenges.</p>  
+
+<p> After analyzing these trends, authorities focused their enforcement and education efforts where they were most needed. Safer roads for everyone is the aim. The information was unambiguous.</p>
+  </section>
+  <footer>
+    <p>Created by Team DB10T03 | COS30045 Data Visualisation | Swinburne University</p>
+  </footer>
+</body>
+</html>
