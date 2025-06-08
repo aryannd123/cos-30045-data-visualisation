@@ -1,0 +1,162 @@
+"JURISDICTION","AGE_GROUP","METRIC","Sum(FINES)"
+"ACT","0-16","mobile_phone_use",10
+"ACT","0-16","non_wearing_seatbelts",4
+"ACT","0-16","speed_fines",58
+"ACT","0-16","unlicensed_driving",11
+"ACT","17-25","mobile_phone_use",82
+"ACT","17-25","non_wearing_seatbelts",27
+"ACT","17-25","speed_fines",9007
+"ACT","17-25","unlicensed_driving",84
+"ACT","26-39","mobile_phone_use",110
+"ACT","26-39","non_wearing_seatbelts",21
+"ACT","26-39","speed_fines",19950
+"ACT","26-39","unlicensed_driving",104
+"ACT","40-64","mobile_phone_use",79
+"ACT","40-64","non_wearing_seatbelts",21
+"ACT","40-64","speed_fines",31836
+"ACT","40-64","unlicensed_driving",58
+"ACT","65 and over","mobile_phone_use",7
+"ACT","65 and over","non_wearing_seatbelts",2
+"ACT","65 and over","speed_fines",9925
+"ACT","65 and over","unlicensed_driving",3
+"NSW","0-16","mobile_phone_use",18
+"NSW","0-16","non_wearing_seatbelts",62
+"NSW","0-16","speed_fines",127
+"NSW","0-16","unlicensed_driving",59
+"NSW","17-25","mobile_phone_use",4141
+"NSW","17-25","non_wearing_seatbelts",2644
+"NSW","17-25","speed_fines",43780
+"NSW","17-25","unlicensed_driving",1797
+"NSW","26-39","mobile_phone_use",5055
+"NSW","26-39","non_wearing_seatbelts",4131
+"NSW","26-39","speed_fines",60280
+"NSW","26-39","unlicensed_driving",3525
+"NSW","40-64","mobile_phone_use",3692
+"NSW","40-64","non_wearing_seatbelts",2871
+"NSW","40-64","speed_fines",59426
+"NSW","40-64","unlicensed_driving",2292
+"NSW","65 and over","mobile_phone_use",379
+"NSW","65 and over","non_wearing_seatbelts",538
+"NSW","65 and over","speed_fines",12036
+"NSW","65 and over","unlicensed_driving",186
+"NSW","Unknown","mobile_phone_use",202757
+"NSW","Unknown","speed_fines",705834
+"NSW","Unknown","unlicensed_driving",0
+"NT","0-16","non_wearing_seatbelts",1
+"NT","0-16","speed_fines",57
+"NT","0-16","unlicensed_driving",
+"NT","17-25","mobile_phone_use",41
+"NT","17-25","non_wearing_seatbelts",153
+"NT","17-25","speed_fines",5649
+"NT","17-25","unlicensed_driving",81
+"NT","26-39","mobile_phone_use",90
+"NT","26-39","non_wearing_seatbelts",351
+"NT","26-39","speed_fines",14283
+"NT","26-39","unlicensed_driving",190
+"NT","40-64","mobile_phone_use",64
+"NT","40-64","non_wearing_seatbelts",266
+"NT","40-64","speed_fines",17659
+"NT","40-64","unlicensed_driving",89
+"NT","65 and over","mobile_phone_use",10
+"NT","65 and over","non_wearing_seatbelts",18
+"NT","65 and over","speed_fines",4188
+"NT","65 and over","unlicensed_driving",6
+"NT","Unknown","speed_fines",1470
+"QLD","Unknown","mobile_phone_use",80292
+"QLD","Unknown","non_wearing_seatbelts",37530
+"QLD","Unknown","speed_fines",860626
+"QLD","Unknown","unlicensed_driving",27701
+"SA","0-16","mobile_phone_use",3
+"SA","0-16","non_wearing_seatbelts",11
+"SA","0-16","speed_fines",21
+"SA","0-16","unlicensed_driving",3
+"SA","17-25","mobile_phone_use",1387
+"SA","17-25","non_wearing_seatbelts",487
+"SA","17-25","speed_fines",24364
+"SA","17-25","unlicensed_driving",1084
+"SA","26-39","mobile_phone_use",2272
+"SA","26-39","non_wearing_seatbelts",931
+"SA","26-39","speed_fines",56350
+"SA","26-39","unlicensed_driving",3086
+"SA","40-64","mobile_phone_use",1805
+"SA","40-64","non_wearing_seatbelts",1044
+"SA","40-64","speed_fines",90037
+"SA","40-64","unlicensed_driving",2643
+"SA","65 and over","mobile_phone_use",302
+"SA","65 and over","non_wearing_seatbelts",411
+"SA","65 and over","speed_fines",28380
+"SA","65 and over","unlicensed_driving",242
+"SA","Unknown","mobile_phone_use",0
+"SA","Unknown","non_wearing_seatbelts",0
+"SA","Unknown","speed_fines",4450
+"SA","Unknown","unlicensed_driving",1
+"TAS","0-16","mobile_phone_use",0
+"TAS","0-16","non_wearing_seatbelts",0
+"TAS","0-16","speed_fines",18
+"TAS","0-16","unlicensed_driving",0
+"TAS","17-25","mobile_phone_use",440
+"TAS","17-25","non_wearing_seatbelts",358
+"TAS","17-25","speed_fines",9407
+"TAS","17-25","unlicensed_driving",38
+"TAS","26-39","mobile_phone_use",1017
+"TAS","26-39","non_wearing_seatbelts",678
+"TAS","26-39","speed_fines",20286
+"TAS","26-39","unlicensed_driving",110
+"TAS","40-64","mobile_phone_use",837
+"TAS","40-64","non_wearing_seatbelts",705
+"TAS","40-64","speed_fines",26326
+"TAS","40-64","unlicensed_driving",79
+"TAS","65 and over","mobile_phone_use",134
+"TAS","65 and over","non_wearing_seatbelts",328
+"TAS","65 and over","speed_fines",8968
+"TAS","65 and over","unlicensed_driving",6
+"TAS","Unknown","non_wearing_seatbelts",1
+"TAS","Unknown","speed_fines",35
+"TAS","Unknown","unlicensed_driving",1
+"VIC","0-16","mobile_phone_use",6
+"VIC","0-16","non_wearing_seatbelts",13
+"VIC","0-16","speed_fines",15
+"VIC","0-16","unlicensed_driving",55
+"VIC","17-25","mobile_phone_use",4440
+"VIC","17-25","non_wearing_seatbelts",2074
+"VIC","17-25","speed_fines",93157
+"VIC","17-25","unlicensed_driving",1947
+"VIC","26-39","mobile_phone_use",13162
+"VIC","26-39","non_wearing_seatbelts",5916
+"VIC","26-39","speed_fines",312408
+"VIC","26-39","unlicensed_driving",4509
+"VIC","40-64","mobile_phone_use",12162
+"VIC","40-64","non_wearing_seatbelts",6264
+"VIC","40-64","speed_fines",492629
+"VIC","40-64","unlicensed_driving",2530
+"VIC","65 and over","mobile_phone_use",1572
+"VIC","65 and over","non_wearing_seatbelts",1804
+"VIC","65 and over","speed_fines",147705
+"VIC","65 and over","unlicensed_driving",223
+"VIC","Unknown","mobile_phone_use",18204
+"VIC","Unknown","non_wearing_seatbelts",14329
+"VIC","Unknown","speed_fines",256714
+"VIC","Unknown","unlicensed_driving",21
+"WA","0-16","mobile_phone_use",
+"WA","0-16","non_wearing_seatbelts",1
+"WA","0-16","speed_fines",34
+"WA","0-16","unlicensed_driving",
+"WA","17-25","mobile_phone_use",706
+"WA","17-25","non_wearing_seatbelts",410
+"WA","17-25","speed_fines",95909
+"WA","17-25","unlicensed_driving",483
+"WA","26-39","mobile_phone_use",1512
+"WA","26-39","non_wearing_seatbelts",715
+"WA","26-39","speed_fines",246081
+"WA","26-39","unlicensed_driving",876
+"WA","40-64","mobile_phone_use",1227
+"WA","40-64","non_wearing_seatbelts",536
+"WA","40-64","speed_fines",373492
+"WA","40-64","unlicensed_driving",617
+"WA","65 and over","mobile_phone_use",147
+"WA","65 and over","non_wearing_seatbelts",111
+"WA","65 and over","speed_fines",91599
+"WA","65 and over","unlicensed_driving",84
+"WA","Unknown","non_wearing_seatbelts",1
+"WA","Unknown","speed_fines",372
+"WA","Unknown","unlicensed_driving",
